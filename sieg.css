@@ -54,7 +54,7 @@ GLOBAL
 	--color-gray-darker: #333;
 	--color-text-primary: #000;
 	--color-box-glow: rgba(255, 255, 255, 0.5);
-	--text-attribution: "style by Sieg";
+	--text-attribution: "Style by Siieg";
 }
 
 @media (prefers-color-scheme: dark) {
@@ -76,7 +76,7 @@ GLOBAL
         --color-gray-darker: #FFF;
         --color-text-primary: #FFF;
         --color-box-glow: rgba(63, 62, 65, 0.5);
-        --text-attribution: "style by Sieg";
+        --text-attribution: "Style by Siieg";
     }
 }
  
